@@ -1,4 +1,3 @@
-variables name 
-{
+variables "name"{
 default="text"
 }
