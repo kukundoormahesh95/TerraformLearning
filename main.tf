@@ -1,3 +1,3 @@
 resource "aws_iam_user" "myuser" {
-  name = "Mahesh_testUser"
+  name = "Mahesh_testUser_jenkins"
 }
