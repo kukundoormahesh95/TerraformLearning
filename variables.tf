@@ -1,4 +1,4 @@
-variable "access_key" {
-
+variables name 
+{
+default="text"
 }
-variable "secret_key" {}
